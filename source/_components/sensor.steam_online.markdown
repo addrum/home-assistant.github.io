@@ -14,7 +14,8 @@ ha_release: 0.14
 ---
 
 
-The Steam component will allow you to track the online status of public [Steam](https://steamcommunity.com) accounts.
+The Steam component will allow you to track the online status of public [Steam](https://steamcommunity.com) accounts. Gets the online status and game being played for each ID listed. 
+Each account must be listed as public in your account/profile settings.
 
 You need an API key	which is [free](https://steamcommunity.com/dev/apikey) to use the component
 
